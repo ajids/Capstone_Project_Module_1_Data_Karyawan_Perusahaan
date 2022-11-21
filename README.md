@@ -9,3 +9,6 @@ Aplikasi terintegrasi yang dibuat ini memiliki 4 fitur utama yaitu:
 - **Read**
 - **Update**
 - **Delete** 
+
+
+link video dan code: https://drive.google.com/drive/folders/19ry0bMJJck7J7qfAnr-RMfacUiECfh0l?usp=share_link
