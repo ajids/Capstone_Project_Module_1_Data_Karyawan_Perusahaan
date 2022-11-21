@@ -5,7 +5,7 @@ Setelah menyelesaikan pembelajaran di Modul satu, Siswa telah mempelajari bebera
 Pengerjaan project ini akan melatih siswa untuk lebih memahami fungsi-fungsi dasar pemrograman python serta cara kerja dan cara penggunaannya ketika diaplikasikan ke dalam suatu aplikasi yang terintegrasi. 
 
 Aplikasi terintegrasi yang dibuat ini memiliki 4 fitur utama yaitu:
-> * **Create**
-> * **Read**
-> * **Update**
-> * **Delete** 
+- **Create**
+- **Read**
+- **Update**
+- **Delete** 
